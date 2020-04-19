@@ -22,7 +22,7 @@ To make use of this calculator follow these simple steps: 
 
 Option #1: Reach out to your local / regional hospitals to assess their need and work through their infection control process.
 
-Option #2: When you have 100+ completed face shields ready to ship, fill out [this form.](https://docs.google.com/forms/d/e/1FAIpQLSei2ti1aSj4e6Ky4TcPaLFfp8aa2n8TOHItIFKsD-DritAZeg/viewform) The team will reply with contact / shipping info for those in the most need at that time. You can negotiate price directly with the hospital in need.[NO BACKSLASHES](https://www.delve.com/assets/documents/OPEN-SOURCE-FACE-SHIELD-DRAWING-v1.PDF)[![Face Shield Drawing](https://making.engr.wisc.edu/wp-content/uploads/sites/1271/2020/03/OPEN-SOURCE-FACE-SHIELD-DRAWING-v1_Page_2-300x199.jpg)[NO MISSING TITLES](https://www.delve.com/assets/documents/OPEN-SOURCE-FACE-SHIELD-DRAWING-v.1.pdf)
+Option #2: When you have 100+ completed face shields ready to ship, fill out [this form NO PERIODS IN LINK TITLES](https://docs.google.com/forms/d/e/1FAIpQLSei2ti1aSj4e6Ky4TcPaLFfp8aa2n8TOHItIFKsD-DritAZeg/viewform). The team will reply with contact / shipping info for those in the most need at that time. You can negotiate price directly with the hospital in need.[NO BACKSLASHES AS TITLES](https://www.delve.com/assets/documents/OPEN-SOURCE-FACE-SHIELD-DRAWING-v1.PDF) MUST HAVE SPACE BETWEEN[![Face Shield Drawing](https://making.engr.wisc.edu/wp-content/uploads/sites/1271/2020/03/OPEN-SOURCE-FACE-SHIELD-DRAWING-v1_Page_2-300x199.jpg)MUST HAVE SPACE BETWEEN[NO MISSING TITLES FOR LINKS](https://www.delve.com/assets/documents/OPEN-SOURCE-FACE-SHIELD-DRAWING-v.1.pdf)
 
 
 ## About the project

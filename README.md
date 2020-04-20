@@ -26,7 +26,7 @@ Option #2: When you have 100+ completed face shields ready to ship, fill out [t
 
 Here are some drawings to work with: 
 - Face Shield Drawing v1 [pdf - click to see](https://www.delve.com/assets/documents/OPEN-SOURCE-FACE-SHIELD-DRAWING-v1.PDF)
-- Face Shield Drawwing Page 2 ![Face Shield Drawing](https://making.engr.wisc.edu/wp-content/uploads/sites/1271/2020/03/OPEN-SOURCE-FACE-SHIELD-DRAWING-v1_Page_2-300x199.jpg)
+- Face Shield Drawing Page 2 ![Face Shield Drawing](https://making.engr.wisc.edu/wp-content/uploads/sites/1271/2020/03/OPEN-SOURCE-FACE-SHIELD-DRAWING-v1_Page_2-300x199.jpg)
 - Face Shield Drawing v.1 [pdf - click to see](https://www.delve.com/assets/documents/OPEN-SOURCE-FACE-SHIELD-DRAWING-v.1.pdf)
 
 

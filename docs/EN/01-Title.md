@@ -1,5 +1,7 @@
 ---
 title: "COVID-19 MEDICAL FACE SHIELD - University of Wisconsin-Madison design"
+finderPriority: 900
+
 output: pdf_document
 documentclass: article
 classoption: onecolumn
